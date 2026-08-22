@@ -11,7 +11,8 @@ A simple Bank Management System written in C++.
 - Withdraw
 - Show all clients
 - Show total balances
-
+- Administration Users
+- Users Permissions 
 ## Language
 - C++
 
